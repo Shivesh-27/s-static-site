@@ -1,1 +1,2 @@
-A simple static site project
+ s- static -site
+ A simple static site project
